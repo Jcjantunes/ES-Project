@@ -1,4 +1,4 @@
-Software Engineering (ES) Course Project (Grade: 17/20) - IST - 2019/2020
+Software Engineering (ES) Course Project (Grade: 17/20) - IST - 2018/2019
 
 # Adventure Builder [![Build Status](https://travis-ci.com/tecnico-softeng/es19tg_12-project.svg?token=xDPBAaQ2epnFt9PRstYY&branch=develop)](https://travis-ci.com/tecnico-softeng/es19tg_12-project)[![codecov](https://codecov.io/gh/tecnico-softeng/es19tg_12-project/branch/develop/graph/badge.svg?token=bB74DA0VHo)](https://codecov.io/gh/tecnico-softeng/es19tg_12-project)
 
